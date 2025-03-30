@@ -1,4 +1,4 @@
-# Seasonal Weather Prediction and Analysis
+# UrbanCity Weather Report
 
 ## Problem Statement
 - Weather impacts everything from daily life to major industries. Farmers depend on forecasts to protect crops, travelers plan around weather conditions, and emergency responders prepare for disasters. However, traditional methods often fail to capture complex temperature patterns, leading to inaccurate predictions and costly disruptions.
@@ -115,7 +115,7 @@ To set up the project locally, follow these steps:
    ```
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run streamlit.py
    ```
 
 
