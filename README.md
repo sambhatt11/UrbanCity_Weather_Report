@@ -107,7 +107,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/RUSHABHS1027/UrbanCity_Weather_Report
-   cd seasonal-weather-prediction
+   cd UrbanCity_Weather_Report
    ```
 2. Install dependencies:
    ```bash
