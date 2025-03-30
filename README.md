@@ -12,7 +12,7 @@ The dataset used in this project consists of historical weather records containi
 - **Temp Max (°C)**: The maximum temperature recorded on a given day.
 - **Temp Min (°C)**: The minimum temperature recorded on a given day.
 - **Rain (cm)**: The total rainfall recorded in centimeters.
-
+ 
 This data was preprocessed to handle missing values, normalize temperature variations, and segment the data based on seasonal changes.
 
 ## Solution Approach
