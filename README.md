@@ -96,7 +96,7 @@ Here are some screenshots of the frontend interface:
 
 ![Visualizations](public/Visual_Date2.png)
 
-![Visualizations](public/Visual_Season.png)
+![Visualizations](public/visual_Season.png)
 
 ### AI Generated Urban City Weather Report
 ![AI Generated Urban City Weather Report](public/Report.png)
