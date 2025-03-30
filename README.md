@@ -119,12 +119,12 @@ To set up the project locally, follow these steps:
    ```
 
 
-## 📈 Results and Insights
+## Results and Insights
 - The model effectively identifies seasonal variations in temperature and rainfall.
 - Predictions provide useful insights into future weather patterns for urban planning and agriculture.
 - Visualizations help in understanding climate trends over the years.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - Integrate real-time weather data for dynamic forecasting.
 - Implement deep learning models for improved accuracy.
 - Expand the dataset to cover more geographical regions.
