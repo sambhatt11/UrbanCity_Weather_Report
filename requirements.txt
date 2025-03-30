@@ -1,0 +1,12 @@
+pandas
+numpy
+streamlit
+Pillow
+scikit-learn
+matplotlib
+seaborn
+plotly
+python-dotenv
+google-generativeai
+xgboost
+pickle5

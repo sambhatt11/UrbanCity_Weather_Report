@@ -66,7 +66,7 @@ def encode_image(image_path):
         return base64.b64encode(image_file.read()).decode()
 
 # Encode the image to base64
-background_image_base64 = encode_image("D:\Weather_AOML\image.png")  # Replace with your image path
+background_image_base64 = encode_image("back.jpg")  # Replace with your image path
 
 # Create the background image CSS style with the base64-encoded string
 background_image = f"url(data:image/jpeg;base64,{background_image_base64})"
@@ -492,7 +492,7 @@ def plot_season_comparison_stacked(city, season, predicted_values):
 
 # UI Components
 def main():
-    encode_image("D:\Weather_AOML\image.png")
+    encode_image("back.jpg")
     # Custom CSS
     st.markdown("""
         <style>
